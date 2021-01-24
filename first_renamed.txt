@@ -1,0 +1,15 @@
+This is muskaan
+You did it babes
+heuuu
+
+
+
+git init
+git status
+git add --a staging
+git commit -m "any msg"
+git log
+git add first.txt
+
+rm -rf .git remove current reposi
+.git //
